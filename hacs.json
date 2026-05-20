@@ -1,0 +1,7 @@
+{
+  "name": "ChartJS Card",
+  "description": "Linie & Balken Charts mit HA History API auf Basis von Chart.js",
+  "content_in_root": false,
+  "filename": "chartjs-card.js",
+  "render_readme": true
+}
